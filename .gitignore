@@ -1,0 +1,13 @@
+# Datasets (large files, don't push to GitHub)
+Pytorch/datasets/
+
+# Model weights / checkpoints
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
