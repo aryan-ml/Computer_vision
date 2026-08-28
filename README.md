@@ -17,7 +17,7 @@ This section contains assignments and implementations related to core deep learn
 - [Assignment 1](./DL4CV/Assignment1.ipynb)
 - [Assignment 2](./DL4CV/Assignment2.ipynb)
 - [Assignment 3](./DL4CV/Assignment3.ipynb)
-- [Gaussian Blur Implementation](./DL4CV/Gaussian_blur.ipynb)
+- [Classic CV Filters](./DL4CV/Classic_CV_Filters.ipynb)
 
 ## PyTorch Learning
 Here I track my progress learning the PyTorch framework, from basic tensor operations to building neural networks.
